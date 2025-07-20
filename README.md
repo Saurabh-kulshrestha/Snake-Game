@@ -42,9 +42,9 @@ This project is an excellent way to explore Python’s object-oriented programmi
 ## 📷 Screenshot
 
 ![Snake Game Screenshot](screenshot.png)
-## 🔗 Live Demo
 
-🎥 Watch the game in action: [LinkedIn Post](https://www.linkedin.com/in/saurabh-kulshrestha)
+
+
 
 ## 🧠 Key Concepts Demonstrated
 
@@ -54,13 +54,6 @@ This project is an excellent way to explore Python’s object-oriented programmi
 - Real-Time Game Loop Execution
 - Random Module & Coordinate Management
 
-## 🙌 Connect with Me
-
-If this project helped you or sparked your interest:
-
-- ⭐ Star the repository
-- 🔗 [Connect on LinkedIn](www.linkedin.com/in/saurabh-kulshrestha-b3196828b)
-- 🌐 Portfolio coming soon...
 
 ---
 
